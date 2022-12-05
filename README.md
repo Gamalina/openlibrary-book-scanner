@@ -1,1 +1,0 @@
-"# OpenLibrary-book-scanner" 
